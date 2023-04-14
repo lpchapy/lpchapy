@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lpchapy
-- 👀  I am interested in developments in Python
-- 🌱 I’m currently learning Python
+- 👀  I am interested in developments in Python and Django
+- 🌱 I’m currently learning Django
 - 💞️ I'm looking to collaborate on nothing for now (yes when I have the level)
 - 📫 How to reach me here: lpchapy@mailo.com
 
